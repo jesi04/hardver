@@ -1,0 +1,46 @@
+footer {
+    background-color: #f1f1f1;
+    padding: 3%;
+    text-align: center;
+   
+  }
+header{
+    background-image: url("hatter.jpg");
+    height: 480px;
+    font-size: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+#egy{
+    background-color: black;
+    color: wheat;
+}
+#ketto{
+    background-color: orange;
+}
+#harom{
+    background-color: blue;
+}
+.topnav {
+    
+    background-color: rgb(51, 51, 51);
+        
+}
+.beal{
+    height: 100px;
+    width:  100px;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 24px 14px;
+    text-decoration: none;
+ }
+ .topnav a:hover {
+    background-color: rgb(221, 221, 221);
+    color: goldenrod;
+  }
